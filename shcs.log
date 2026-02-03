@@ -1,0 +1,419 @@
+2026-01-13 22:18:15.043350 - Self-Healing Cybersecurity Agent started
+2026-01-13 22:18:17.120878 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:18:29.265463 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:18:41.301546 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:18:53.308932 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:19:05.393571 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:19:17.410508 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:19:29.526822 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:19:41.574953 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:19:53.591383 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:20:05.542947 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:20:17.488101 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:20:29.449728 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:20:41.468982 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:20:53.700085 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:21:05.671470 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:21:17.590533 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:21:29.585363 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:21:41.908973 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:21:53.839838 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:22:05.778621 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:22:17.743367 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:22:29.716204 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:22:41.939465 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:22:54.131068 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:23:06.292271 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:23:18.319686 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:23:30.419621 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:23:42.614277 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:23:54.709855 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:24:06.840976 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:24:18.927748 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:24:30.871388 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:24:42.988250 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:24:55.104275 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:25:07.074465 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:25:19.043651 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:25:31.033691 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:25:42.934001 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:25:54.888470 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:26:06.866777 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:26:18.838908 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:26:31.100479 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:26:43.257935 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:26:55.231416 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:27:07.153352 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:27:19.090969 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:27:31.128934 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:27:43.568133 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:27:55.513071 - Agent error: (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2026-01-13 22:29:58.187381 - Self-Healing Cybersecurity Agent started
+2026-01-13 22:29:59.684929 - Blocked IP 127.0.0.1
+2026-01-13 22:29:59.945501 - Blocked IP 127.0.0.1
+2026-01-13 22:30:00.118187 - Self-Healing Cybersecurity Agent started
+2026-01-13 22:30:00.121937 - Blocked IP 127.0.0.1
+2026-01-13 22:30:00.488454 - Blocked IP 4.213.25.240
+2026-01-13 22:30:00.854841 - Blocked IP 127.0.0.1
+2026-01-13 22:30:01.236833 - Blocked IP 23.38.59.250
+2026-01-13 22:30:01.343107 - Blocked IP 40.104.66.178
+2026-01-13 22:30:01.545432 - Blocked IP 127.0.0.1
+2026-01-13 22:30:01.796439 - Blocked IP ::1
+2026-01-13 22:30:01.965723 - Blocked IP 127.0.0.1
+2026-01-13 22:30:01.993928 - Blocked IP 57.144.243.32
+2026-01-13 22:30:02.232546 - Blocked IP 127.0.0.1
+2026-01-13 22:30:02.389213 - Blocked IP 40.104.66.178
+2026-01-13 22:30:02.418099 - Blocked IP 127.0.0.1
+2026-01-13 22:30:02.624728 - Blocked IP 4.213.25.240
+2026-01-13 22:30:02.808897 - Blocked IP 127.0.0.1
+2026-01-13 22:30:02.831964 - Blocked IP 127.0.0.1
+2026-01-13 22:30:03.058395 - Blocked IP 13.107.246.68
+2026-01-13 22:30:03.202918 - Blocked IP 127.0.0.1
+2026-01-13 22:30:03.233053 - Blocked IP 127.0.0.1
+2026-01-13 22:30:03.431008 - Blocked IP 172.64.148.235
+2026-01-13 22:30:03.599785 - Blocked IP ::1
+2026-01-13 22:30:03.635754 - Blocked IP 127.0.0.1
+2026-01-13 22:30:03.788703 - Blocked IP 23.38.59.250
+2026-01-13 22:30:03.934371 - Blocked IP 40.99.9.162
+2026-01-13 22:30:03.965909 - Blocked IP 127.0.0.1
+2026-01-13 22:30:04.152844 - Blocked IP 57.144.243.32
+2026-01-13 22:30:04.319335 - Blocked IP 172.64.155.209
+2026-01-13 22:30:04.372463 - Blocked IP 172.64.155.209
+2026-01-13 22:30:04.560503 - Blocked IP 127.0.0.1
+2026-01-13 22:30:04.808741 - Blocked IP 172.64.148.235
+2026-01-13 22:30:05.188340 - Blocked IP 13.107.246.68
+2026-01-13 22:30:05.435225 - Blocked IP 40.99.9.162
+2026-01-13 22:30:15.797832 - Terminated process PID 0
+2026-01-13 22:30:15.934677 - Blocked IP 40.104.66.178
+2026-01-13 22:30:16.093287 - Blocked IP 127.0.0.1
+2026-01-13 22:30:16.233394 - Blocked IP 127.0.0.1
+2026-01-13 22:30:16.387530 - Blocked IP 127.0.0.1
+2026-01-13 22:30:16.560851 - Blocked IP 127.0.0.1
+2026-01-13 22:30:16.718566 - Blocked IP 4.213.25.240
+2026-01-13 22:30:16.879183 - Blocked IP 127.0.0.1
+2026-01-13 22:30:16.921883 - Terminated process PID 0
+2026-01-13 22:30:17.056070 - Blocked IP 127.0.0.1
+2026-01-13 22:30:17.191687 - Blocked IP 127.0.0.1
+2026-01-13 22:30:17.215244 - Blocked IP 172.64.148.235
+2026-01-13 22:30:17.397158 - Blocked IP 127.0.0.1
+2026-01-13 22:30:17.558987 - Blocked IP 57.144.243.32
+2026-01-13 22:30:17.579336 - Blocked IP 127.0.0.1
+2026-01-13 22:30:17.732746 - Blocked IP 172.64.155.209
+2026-01-13 22:30:17.887287 - Blocked IP 127.0.0.1
+2026-01-13 22:30:17.978962 - Blocked IP ::1
+2026-01-13 22:30:18.342654 - Blocked IP 127.0.0.1
+2026-01-13 22:30:18.591301 - Blocked IP 4.213.25.240
+2026-01-13 22:30:18.949876 - Blocked IP 127.0.0.1
+2026-01-13 22:30:19.185309 - Blocked IP 127.0.0.1
+2026-01-13 22:30:19.559244 - Blocked IP 57.144.243.32
+2026-01-13 22:30:19.921449 - Blocked IP 40.104.66.178
+2026-01-13 22:30:20.262090 - Blocked IP ::1
+2026-01-13 22:30:20.496583 - Blocked IP 127.0.0.1
+2026-01-13 22:30:20.746807 - Blocked IP 127.0.0.1
+2026-01-13 22:30:21.002455 - Blocked IP 127.0.0.1
+2026-01-13 22:30:21.232438 - Blocked IP 172.64.155.209
+2026-01-13 22:30:21.653438 - Blocked IP 172.64.148.235
+2026-01-13 22:30:29.120334 - Terminated process PID 0
+2026-01-13 22:30:29.262576 - Blocked IP 40.104.66.178
+2026-01-13 22:30:29.443069 - Blocked IP 127.0.0.1
+2026-01-13 22:30:29.580108 - Blocked IP 127.0.0.1
+2026-01-13 22:30:29.715775 - Blocked IP 127.0.0.1
+2026-01-13 22:30:29.872965 - Blocked IP ::1
+2026-01-13 22:30:30.014552 - Blocked IP ::1
+2026-01-13 22:30:30.201901 - Blocked IP 127.0.0.1
+2026-01-13 22:30:30.357816 - Blocked IP 4.213.25.240
+2026-01-13 22:30:30.505215 - Blocked IP 127.0.0.1
+2026-01-13 22:30:30.673217 - Blocked IP 127.0.0.1
+2026-01-13 22:30:30.843429 - Blocked IP 172.64.148.235
+2026-01-13 22:30:31.011767 - Blocked IP 127.0.0.1
+2026-01-13 22:30:31.194729 - Blocked IP 57.144.243.32
+2026-01-13 22:30:31.356000 - Blocked IP 172.64.155.209
+2026-01-13 22:30:31.506162 - Blocked IP 127.0.0.1
+2026-01-13 22:30:32.968238 - Terminated process PID 0
+2026-01-13 22:30:33.215738 - Blocked IP 127.0.0.1
+2026-01-13 22:30:33.475085 - Blocked IP 127.0.0.1
+2026-01-13 22:30:33.882073 - Blocked IP ::1
+2026-01-13 22:30:34.277698 - Blocked IP 127.0.0.1
+2026-01-13 22:30:34.671929 - Blocked IP 4.213.25.240
+2026-01-13 22:30:34.919013 - Blocked IP 127.0.0.1
+2026-01-13 22:30:35.169432 - Blocked IP 127.0.0.1
+2026-01-13 22:30:35.427057 - Blocked IP 57.144.243.32
+2026-01-13 22:30:35.564915 - Blocked IP 40.104.66.178
+2026-01-13 22:30:35.960432 - Blocked IP ::1
+2026-01-13 22:30:36.198641 - Blocked IP 127.0.0.1
+2026-01-13 22:30:36.453179 - Blocked IP 127.0.0.1
+2026-01-13 22:30:36.702839 - Blocked IP 127.0.0.1
+2026-01-13 22:30:36.954626 - Blocked IP 172.64.155.209
+2026-01-13 22:30:37.199820 - Blocked IP 172.64.148.235
+2026-01-13 22:30:42.728468 - Terminated process PID 0
+2026-01-13 22:30:42.885936 - Blocked IP 40.104.66.178
+2026-01-13 22:30:43.027736 - Blocked IP 127.0.0.1
+2026-01-13 22:30:43.195040 - Blocked IP 127.0.0.1
+2026-01-13 22:30:43.344471 - Blocked IP 127.0.0.1
+2026-01-13 22:30:43.502321 - Blocked IP ::1
+2026-01-13 22:30:43.646204 - Blocked IP ::1
+2026-01-13 22:30:43.802434 - Blocked IP 127.0.0.1
+2026-01-13 22:30:43.998293 - Blocked IP 4.213.25.240
+2026-01-13 22:30:44.167856 - Blocked IP 127.0.0.1
+2026-01-13 22:30:44.341138 - Blocked IP 127.0.0.1
+2026-01-13 22:30:44.498470 - Blocked IP 172.64.148.235
+2026-01-13 22:30:44.680683 - Blocked IP 127.0.0.1
+2026-01-13 22:30:44.851398 - Blocked IP 57.144.243.32
+2026-01-13 22:30:44.998112 - Blocked IP 172.64.155.209
+2026-01-13 22:30:45.146143 - Blocked IP 127.0.0.1
+2026-01-13 22:30:48.500330 - Terminated process PID 0
+2026-01-13 22:30:48.880998 - Blocked IP 127.0.0.1
+2026-01-13 22:30:49.128966 - Blocked IP 127.0.0.1
+2026-01-13 22:30:49.373376 - Blocked IP ::1
+2026-01-13 22:30:49.753891 - Blocked IP 127.0.0.1
+2026-01-13 22:30:50.137568 - Blocked IP 4.213.25.240
+2026-01-13 22:30:50.501366 - Blocked IP 127.0.0.1
+2026-01-13 22:30:50.739087 - Blocked IP 127.0.0.1
+2026-01-13 22:30:51.143354 - Blocked IP 40.104.66.178
+2026-01-13 22:30:51.374188 - Blocked IP ::1
+2026-01-13 22:30:51.629185 - Blocked IP 127.0.0.1
+2026-01-13 22:30:51.867772 - Blocked IP 127.0.0.1
+2026-01-13 22:30:52.126840 - Blocked IP 127.0.0.1
+2026-01-13 22:30:52.501117 - Blocked IP 172.64.155.209
+2026-01-13 22:30:52.746715 - Blocked IP 172.64.148.235
+2026-01-13 22:30:52.984222 - Blocked IP 57.144.125.32
+2026-01-13 22:30:53.140997 - Blocked IP 57.144.125.32
+2026-01-13 22:30:56.384259 - Terminated process PID 0
+2026-01-13 22:30:56.535066 - Blocked IP 40.104.66.178
+2026-01-13 22:30:56.675109 - Blocked IP 127.0.0.1
+2026-01-13 22:30:56.831253 - Blocked IP 57.144.125.32
+2026-01-13 22:30:56.987871 - Blocked IP 127.0.0.1
+2026-01-13 22:30:57.146326 - Blocked IP 127.0.0.1
+2026-01-13 22:30:57.304403 - Blocked IP ::1
+2026-01-13 22:30:57.462377 - Blocked IP ::1
+2026-01-13 22:30:57.612762 - Blocked IP 57.144.125.32
+2026-01-13 22:30:57.773299 - Blocked IP 127.0.0.1
+2026-01-13 22:30:57.930080 - Blocked IP 4.213.25.240
+2026-01-13 22:30:58.084398 - Blocked IP 127.0.0.1
+2026-01-13 22:30:58.236912 - Blocked IP 127.0.0.1
+2026-01-13 22:30:58.395040 - Blocked IP 172.64.148.235
+2026-01-13 22:30:58.573607 - Blocked IP 127.0.0.1
+2026-01-13 22:30:58.749968 - Blocked IP 172.64.155.209
+2026-01-13 22:30:58.920305 - Blocked IP 127.0.0.1
+2026-01-13 22:31:04.483424 - Terminated process PID 0
+2026-01-13 22:31:04.740514 - Blocked IP 127.0.0.1
+2026-01-13 22:31:04.981969 - Blocked IP 127.0.0.1
+2026-01-13 22:31:05.234730 - Blocked IP ::1
+2026-01-13 22:31:05.480397 - Blocked IP 127.0.0.1
+2026-01-13 22:31:05.879454 - Blocked IP 4.213.25.240
+2026-01-13 22:31:06.139765 - Blocked IP 127.0.0.1
+2026-01-13 22:31:06.379896 - Blocked IP 127.0.0.1
+2026-01-13 22:31:06.746923 - Blocked IP 40.104.66.178
+2026-01-13 22:31:06.996621 - Blocked IP ::1
+2026-01-13 22:31:07.230893 - Blocked IP 127.0.0.1
+2026-01-13 22:31:07.484687 - Blocked IP 127.0.0.1
+2026-01-13 22:31:07.730796 - Blocked IP 127.0.0.1
+2026-01-13 22:31:07.996064 - Blocked IP 172.64.155.209
+2026-01-13 22:31:08.360206 - Blocked IP 172.64.148.235
+2026-01-13 22:31:08.618278 - Blocked IP 57.144.125.32
+2026-01-13 22:31:08.864205 - Blocked IP 57.144.125.32
+2026-01-13 22:31:10.199129 - Terminated process PID 0
+2026-01-13 22:31:10.355685 - Blocked IP 40.104.66.178
+2026-01-13 22:31:10.498665 - Blocked IP 127.0.0.1
+2026-01-13 22:31:10.649587 - Blocked IP 57.144.125.32
+2026-01-13 22:31:10.804800 - Blocked IP 127.0.0.1
+2026-01-13 22:31:10.962464 - Blocked IP 127.0.0.1
+2026-01-13 22:31:11.121647 - Blocked IP ::1
+2026-01-13 22:31:11.277411 - Blocked IP ::1
+2026-01-13 22:31:11.443155 - Blocked IP 57.144.125.32
+2026-01-13 22:31:11.592181 - Blocked IP 127.0.0.1
+2026-01-13 22:31:11.737810 - Blocked IP 4.213.25.240
+2026-01-13 22:31:11.890636 - Blocked IP 127.0.0.1
+2026-01-13 22:31:12.027569 - Blocked IP 127.0.0.1
+2026-01-13 22:31:12.194201 - Blocked IP 172.64.148.235
+2026-01-13 22:31:12.378895 - Blocked IP 104.18.43.204
+2026-01-13 22:31:12.545855 - Blocked IP 127.0.0.1
+2026-01-13 22:31:12.698469 - Blocked IP 172.64.155.209
+2026-01-13 22:31:12.849632 - Blocked IP 127.0.0.1
+2026-01-13 22:31:20.204602 - Terminated process PID 0
+2026-01-13 22:31:20.465099 - Blocked IP 127.0.0.1
+2026-01-13 22:31:20.832937 - Blocked IP 127.0.0.1
+2026-01-13 22:31:21.082164 - Blocked IP ::1
+2026-01-13 22:31:21.466024 - Blocked IP 127.0.0.1
+2026-01-13 22:31:21.863066 - Blocked IP 4.213.25.240
+2026-01-13 22:31:22.239270 - Blocked IP 127.0.0.1
+2026-01-13 22:31:22.483114 - Blocked IP 127.0.0.1
+2026-01-13 22:31:22.744539 - Blocked IP 40.104.66.178
+2026-01-13 22:31:23.035776 - Blocked IP ::1
+2026-01-13 22:31:23.297072 - Blocked IP 127.0.0.1
+2026-01-13 22:31:23.561977 - Blocked IP 127.0.0.1
+2026-01-13 22:31:23.809742 - Blocked IP 127.0.0.1
+2026-01-13 22:31:24.116269 - Terminated process PID 0
+2026-01-13 22:31:24.217627 - Blocked IP 172.64.155.209
+2026-01-13 22:31:24.306672 - Blocked IP 40.104.66.178
+2026-01-13 22:31:24.487525 - Blocked IP 127.0.0.1
+2026-01-13 22:31:24.513235 - Blocked IP 172.64.148.235
+2026-01-13 22:31:24.679780 - Blocked IP 57.144.125.32
+2026-01-13 22:31:24.850911 - Blocked IP 127.0.0.1
+2026-01-13 22:31:24.961401 - Blocked IP 57.144.125.32
+2026-01-13 22:31:25.041169 - Blocked IP 127.0.0.1
+2026-01-13 22:31:25.215414 - Blocked IP ::1
+2026-01-13 22:31:25.249977 - Blocked IP 104.18.43.204
+2026-01-13 22:31:25.409088 - Blocked IP ::1
+2026-01-13 22:31:25.558833 - Blocked IP 57.144.125.32
+2026-01-13 22:31:25.591592 - Blocked IP 57.144.125.32
+2026-01-13 22:31:25.746037 - Blocked IP 127.0.0.1
+2026-01-13 22:31:25.979921 - Blocked IP 4.213.25.240
+2026-01-13 22:31:26.151995 - Blocked IP 127.0.0.1
+2026-01-13 22:31:26.306496 - Blocked IP 127.0.0.1
+2026-01-13 22:31:26.470401 - Blocked IP 172.64.148.235
+2026-01-13 22:31:26.620680 - Blocked IP 104.18.43.204
+2026-01-13 22:31:26.773514 - Blocked IP 127.0.0.1
+2026-01-13 22:31:26.932197 - Blocked IP 172.64.155.209
+2026-01-13 22:31:27.085940 - Blocked IP 127.0.0.1
+2026-01-13 22:31:36.871441 - Terminated process PID 0
+2026-01-13 22:31:37.170344 - Terminated process PID 8240
+2026-01-13 22:31:37.428431 - Blocked IP 127.0.0.1
+2026-01-13 22:31:37.672493 - Blocked IP 127.0.0.1
+2026-01-13 22:31:38.048572 - Blocked IP 127.0.0.1
+2026-01-13 22:31:38.309102 - Blocked IP 4.213.25.240
+2026-01-13 22:31:38.328248 - Terminated process PID 0
+2026-01-13 22:31:38.508776 - Blocked IP 40.104.66.178
+2026-01-13 22:31:38.670522 - Blocked IP 127.0.0.1
+2026-01-13 22:31:38.733402 - Blocked IP 127.0.0.1
+2026-01-13 22:31:38.838880 - Blocked IP ::1
+2026-01-13 22:31:39.005462 - Blocked IP 57.144.125.32
+2026-01-13 22:31:39.011323 - Blocked IP 127.0.0.1
+2026-01-13 22:31:39.185818 - Blocked IP 127.0.0.1
+2026-01-13 22:31:39.289536 - Blocked IP 40.104.66.178
+2026-01-13 22:31:39.357953 - Blocked IP 127.0.0.1
+2026-01-13 22:31:39.542995 - Blocked IP 57.144.125.32
+2026-01-13 22:31:39.558654 - Blocked IP 127.0.0.1
+2026-01-13 22:31:39.716593 - Blocked IP 127.0.0.1
+2026-01-13 22:31:39.891183 - Blocked IP 4.213.25.240
+2026-01-13 22:31:39.993182 - Blocked IP 127.0.0.1
+2026-01-13 22:31:40.060648 - Blocked IP 127.0.0.1
+2026-01-13 22:31:40.222021 - Blocked IP ::1
+2026-01-13 22:31:40.253598 - Blocked IP 127.0.0.1
+2026-01-13 22:31:40.403481 - Blocked IP 127.0.0.1
+2026-01-13 22:31:40.539535 - Blocked IP 172.64.155.209
+2026-01-13 22:31:40.581585 - Blocked IP 20.189.173.25
+2026-01-13 22:31:40.762725 - Blocked IP 104.18.43.204
+2026-01-13 22:31:40.920048 - Blocked IP 127.0.0.1
+2026-01-13 22:31:40.950344 - Blocked IP 172.64.148.235
+2026-01-13 22:31:41.100401 - Blocked IP 172.64.155.209
+2026-01-13 22:31:41.233887 - Blocked IP 57.144.125.32
+2026-01-13 22:31:41.263603 - Blocked IP 127.0.0.1
+2026-01-13 22:31:41.487500 - Blocked IP 104.18.43.204
+2026-01-13 22:31:41.738275 - Blocked IP 57.144.125.32
+2026-01-13 22:31:52.489758 - Terminated process PID 0
+2026-01-13 22:31:52.644855 - Blocked IP 40.104.66.178
+2026-01-13 22:31:52.823627 - Blocked IP 127.0.0.1
+2026-01-13 22:31:53.010075 - Blocked IP ::1
+2026-01-13 22:31:53.091958 - Terminated process PID 0
+2026-01-13 22:31:53.186196 - Blocked IP 127.0.0.1
+2026-01-13 22:31:53.345650 - Blocked IP 127.0.0.1
+2026-01-13 22:31:53.373991 - Blocked IP 127.0.0.1
+2026-01-13 22:31:53.546256 - Blocked IP 57.144.125.32
+2026-01-13 22:31:53.721699 - Blocked IP 127.0.0.1
+2026-01-13 22:31:53.820566 - Blocked IP ::1
+2026-01-13 22:31:53.903104 - Blocked IP 4.213.25.240
+2026-01-13 22:31:54.019179 - Blocked IP 127.0.0.1
+2026-01-13 22:31:54.090995 - Blocked IP 127.0.0.1
+2026-01-13 22:31:54.263663 - Blocked IP ::1
+2026-01-13 22:31:54.303320 - Blocked IP 127.0.0.1
+2026-01-13 22:31:54.445317 - Blocked IP 127.0.0.1
+2026-01-13 22:31:54.586722 - Blocked IP 20.189.173.25
+2026-01-13 22:31:54.636062 - Blocked IP 20.189.173.25
+2026-01-13 22:31:54.840205 - Blocked IP 104.18.43.204
+2026-01-13 22:31:54.904793 - Blocked IP 4.213.25.240
+2026-01-13 22:31:55.028890 - Blocked IP 127.0.0.1
+2026-01-13 22:31:55.226383 - Blocked IP 172.64.155.209
+2026-01-13 22:31:55.363888 - Blocked IP 127.0.0.1
+2026-01-13 22:31:55.397902 - Blocked IP 127.0.0.1
+2026-01-13 22:31:55.772559 - Blocked IP 127.0.0.1
+2026-01-13 22:31:56.042703 - Blocked IP 40.104.66.178
+2026-01-13 22:31:56.283226 - Blocked IP 127.0.0.1
+2026-01-13 22:31:56.533095 - Blocked IP 127.0.0.1
+2026-01-13 22:31:56.788742 - Blocked IP 127.0.0.1
+2026-01-13 22:31:57.058364 - Blocked IP 172.64.155.209
+2026-01-13 22:31:57.292016 - Blocked IP 57.144.125.32
+2026-01-13 22:31:57.561885 - Blocked IP 104.18.43.204
+2026-01-13 22:31:57.817293 - Blocked IP ::1
+2026-01-13 22:40:35.122460 - Self-Healing Cybersecurity Agent started
+2026-01-13 22:40:36.155934 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:40:39.530941 - Self-Healing Cybersecurity Agent started
+2026-01-13 22:40:40.559656 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:40:47.168455 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:40:51.572846 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:40:58.191708 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:41:02.597237 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:41:13.606408 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:41:24.628917 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:41:35.667710 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:41:46.691374 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:41:57.715611 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:42:08.747793 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:42:19.770299 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:42:30.793406 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:42:41.811577 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:42:52.842218 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:43:03.868240 - Agent error: module 'response.self_heal' has no attribute 'heal'
+2026-01-13 22:46:02.871794 - Self-Healing Cybersecurity Agent started
+2026-01-13 22:46:04.077984 - Blocked IP 15.235.218.105
+2026-01-13 22:46:04.234741 - Blocked IP 52.98.57.130
+2026-01-13 22:46:04.386507 - Blocked IP 57.144.125.32
+2026-01-13 22:46:04.539736 - Blocked IP 15.235.218.105
+2026-01-13 22:46:04.687050 - Blocked IP 52.98.57.130
+2026-01-13 22:46:04.848127 - Blocked IP 203.192.234.145
+2026-01-13 22:46:04.988926 - Blocked IP 15.235.218.105
+2026-01-13 22:46:05.136314 - Blocked IP 20.42.73.26
+2026-01-13 22:46:05.293841 - Blocked IP 4.213.25.240
+2026-01-13 22:46:05.458969 - Blocked IP 142.251.12.84
+2026-01-13 22:46:05.615118 - Blocked IP 104.18.39.21
+2026-01-13 22:46:05.762403 - Blocked IP 13.89.179.11
+2026-01-13 22:46:05.903334 - Blocked IP 57.144.125.32
+2026-01-13 22:46:17.101811 - Blocked IP 15.235.218.105
+2026-01-13 22:46:17.254830 - Blocked IP 52.98.57.130
+2026-01-13 22:46:17.419329 - Blocked IP 57.144.125.32
+2026-01-13 22:46:17.568889 - Blocked IP 15.235.218.105
+2026-01-13 22:46:17.711965 - Blocked IP 52.98.57.130
+2026-01-13 22:46:17.861464 - Blocked IP 203.192.234.145
+2026-01-13 22:46:18.019377 - Blocked IP 15.235.218.105
+2026-01-13 22:46:18.170304 - Blocked IP 20.42.73.26
+2026-01-13 22:46:18.318644 - Blocked IP 4.213.25.240
+2026-01-13 22:46:18.483340 - Blocked IP 142.251.12.84
+2026-01-13 22:46:18.632063 - Blocked IP 104.18.39.21
+2026-01-13 22:46:18.782240 - Blocked IP 13.89.179.11
+2026-01-13 22:46:18.936229 - Blocked IP 57.144.125.32
+2026-01-13 22:46:30.144065 - Blocked IP 15.235.218.105
+2026-01-13 22:46:30.298778 - Blocked IP 52.98.57.130
+2026-01-13 22:46:30.461306 - Blocked IP 57.144.125.32
+2026-01-13 22:46:30.614844 - Blocked IP 15.235.218.105
+2026-01-13 22:46:30.772875 - Blocked IP 52.98.57.130
+2026-01-13 22:46:30.930355 - Blocked IP 203.192.234.145
+2026-01-13 22:46:31.090477 - Blocked IP 15.235.218.105
+2026-01-13 22:46:31.246776 - Blocked IP 20.42.73.26
+2026-01-13 22:46:31.388966 - Blocked IP 4.213.25.240
+2026-01-13 22:46:31.533308 - Blocked IP 104.18.39.21
+2026-01-13 22:46:31.694846 - Blocked IP 13.89.179.11
+2026-01-13 22:46:31.850289 - Blocked IP 57.144.125.32
+2026-01-13 22:46:43.037196 - Blocked IP 15.235.218.105
+2026-01-13 22:46:43.200602 - Blocked IP 52.98.57.130
+2026-01-13 22:46:43.353828 - Blocked IP 57.144.125.32
+2026-01-13 22:46:43.513348 - Blocked IP 15.235.218.105
+2026-01-13 22:46:43.662385 - Blocked IP 52.98.57.130
+2026-01-13 22:46:43.821335 - Blocked IP 203.192.234.145
+2026-01-13 22:46:43.975165 - Blocked IP 15.235.218.105
+2026-01-13 22:46:44.145496 - Blocked IP 20.42.73.26
+2026-01-13 22:46:44.344009 - Blocked IP 4.213.25.240
+2026-01-13 22:46:44.474948 - Blocked IP 104.18.39.21
+2026-01-13 22:46:44.645826 - Blocked IP 13.89.179.11
+2026-01-13 22:46:44.796112 - Blocked IP 57.144.125.32
+2026-01-13 22:46:55.985959 - Blocked IP 15.235.218.105
+2026-01-13 22:48:54.184456 - Self-Healing Cybersecurity Agent started
+2026-01-13 22:48:55.387452 - Blocked IP 57.144.125.32
+2026-01-13 22:48:55.548731 - Blocked IP 4.213.25.240
+2026-01-13 22:48:55.704020 - Blocked IP 104.208.16.95
+2026-01-13 22:49:50.996682 - Blocked IP 140.82.113.21
+2026-01-13 22:50:35.329721 - Terminated process PID 4544
+2026-01-13 22:50:57.631101 - Terminated process PID 23136
+2026-01-14 19:52:05.521685 - Self-Healing Cybersecurity Agent started
+2026-01-14 19:52:07.989950 - Blocked IP 57.144.243.32
+2026-01-14 19:52:08.377341 - Blocked IP 64.233.170.84
+2026-01-14 19:52:08.769998 - Blocked IP 4.213.25.240
