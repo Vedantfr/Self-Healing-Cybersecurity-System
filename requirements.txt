@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+psutil
+pywin32
+=======
+psutil
+pywin32
+>>>>>>> ff48c825f9fd64ae919885467895d38972d81c36
